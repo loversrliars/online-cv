@@ -97,7 +97,7 @@ experiences:
     - role: SENIOR MANAGER WORKSHOP
       time: Sep 2020 - Present 
       COMPANY : INDIAN ARMY, Punjab
-      details: 
+      details: | 
         -  Conceptualization, development and implementation of Anti -Drone / UAV surveillance net-
            AI/ML model for automatic detection and classification of objects in drone imagery and
            countermeasure.
@@ -120,7 +120,7 @@ experiences:
     - role: LEAD IT MANAGER
       time: Aug 2016 – Aug 2018 
       company: INDIAN ARMY, J&K
-      details: 
+     details: | 
         - Managed зоо» corporate excel and access reports, the reports and the business
           intelligence (BI) platform
         - Enabled 120+ project leaders to see near real-time project budget and staff hours through
@@ -147,7 +147,7 @@ experiences:
        
 projects:
     title: Projects
-    intro:
+    intro: >
       From time immemorial, Corps of Electronics and Mechanical Engineers (EME)
       has been a traditional spearhead of technological developments in 
       Indain Army, taking charge of the extreme challenges in the technicalities
@@ -184,7 +184,6 @@ publications:
       Leading the field of reasearch and innovation the technocrat credentials 
       are substantiated with certification in IEEE and International and National
       papers published in IETE and other journals.List of publications.
-
     papers:
       - title: DXCCII-Based Mixed-Mode Electronically Tunable Quadrature Oscillator with Grounded Capacitors
         link: "https://link.springer.com/chapter/10.1007%2F978-3-642-18440-6_65"
