@@ -147,16 +147,16 @@ experiences:
        
 projects:
     title: Projects
-    intro: >
+    intro:
       From time immemorial, Corps of Electronics and Mechanical Engineers(EME)
       has been a traditional spearhead of technological developments in 
       Indain Army, taking charge of the extreme challenges in the technicalities
       and adversities of ever evolving nature of warfare across the entire
       spectrum of physical battlespace; air, surface and sub-surface as well
-      as the electromagnetic spectrum and information space.
+      as the electromagnetic spectrum and information space.Learning comes as
+      a second nature to an EME officer.Listing down variousprojects handled
+      during the service as under -
       
-      Learning comes as a second nature to an EME officer.Listing down various
-      projects handled during the service as under:
     assignments:
       - title: Velocity
         link: "#hook"
