@@ -173,84 +173,73 @@ experiences:
 projects:
     title: Projects
     intro: >
-      From time immemorial, Corps of Electronics and Mechanical Engineers (EME)
-      has been a traditional spearhead of technological developments in 
-      Indain Army, taking charge of the extreme challenges in the technicalities
-      and adversities of ever evolving nature of warfare across the entire
-      spectrum of physical battlespace; air, surface and sub-surface as well
-      as the electromagnetic spectrum and information space.Learning comes as
-      a second nature to an EME officer.Listing down variousprojects handled
-      during the service as under.
-   assignments:
-      - title: KAMYAB
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
         link: "#hook"
-        tagline: "Led team of 200+ soldiers in operations, maintaining formation equipment’s in full mission capable state and achieving quantiﬁable industry standards : min MTTR ,min MTDT and max MTBF."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title:  NETRA
+      - title: DevStudio
         link: "#"
-        tagline: "Instructed and trained soldiers and technician’s over UAV’s on maintenance and repair."
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title:  GULMOHAR
+      - title: Tempo
         link: "#"
-        tagline: "Oversaw overhaul operations of Tanks T-72 based recovery vehicle of East European origin."
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: TULIP
+      - title: Atom
         link: "#"
-        tagline: "Handled logistics and production of Infantry combat vehicles for ﬁeld army.Designed and developed comprehensive ERP solution for project monitoring and inventory management."
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: INDUSTRY 4.0
-        link: "https://www.linkedin.com/in/major-sumit-sharma/detail/treasury/position:1648323092/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAAHRCnABbPvjPciWYlm2P1crko2x8HUqYUw%2C1635477100863)&parentEntityUrn=urn%3Ali%3Afsd_profilePosition%3A(ACoAAAHRCnABbPvjPciWYlm2P1crko2x8HUqYUw%2C1648323092)&section=position%3A1648323092&treasuryCount=3&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BE4NxtzwCR%2BKBtYdJwEMc8w%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-treasury_thumbnail_cell"
-        tagline: "Enabled the implementation of Industry 4.0 at 512 Army Base Workshop, such as Automation, Cybersecurity, Data Modeling, Data Analytics,Additive Manufacturing, 3-D Printing and Simulation."
-
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      Leading the field of reasearch and innovation the technocrat credentials 
-      are substantiated with certification in IEEE and International and National
-      papers published in IETE and other journals.List of publications.
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: DXCCII-Based Mixed-Mode Electronically Tunable Quadrature Oscillator with Grounded Capacitors
-        link: "https://link.springer.com/chapter/10.1007%2F978-3-642-18440-6_65"
-        authors: Sumit Sharma, Samar Ansari
-        conference: International Conference on Advances in Computing, Communication and Control ICAC3 2011: Advances in Computing, Communication and Control pp 515-521
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: "New Applications of CMOS DXCCII: Quadrature Oscillator; AM, FM & OOK Modulators and Variable Duty-Cycle Square-Wave Generator"
-        link: "https://www.researchgate.net/scientific-contributions/Sumit-Sharma-2023916078"
-        authors: Sumit Sharma, Samar Ansari
-        conference: "Conference: Proceedings of the International Conference on Future Engineering Trends (ICFET2K10)"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: DXCCII based Electronically Tunable Band-Pass Filter
-        link: "https://www.researchgate.net/publication/259284066_DXCCII_based_Electronically_Tunable_Band-Pass_Filter"
-        authors: Sumit Sharma, Samar Ansari
-        conference: "Conference: Proceedings of the International Conference on Future Trends in Information and Communication Technologies (FTICT-09)"
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name:  Project Management
+      - name: Python & Django
         level: 98%
 
-      - name: Business Intelligence (BI)
+      - name: Javascript & jQuery
         level: 98%
-      
-      - name: Requirements Analysis
-        level: 98%
-        
-      - name: Data Mining, Analytics, Visualization
+
+      - name: Angular
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Microsoft Azure Machine Learning
+      - name: Ruby on Rails
         level: 85%
 
-      - name: R, Python, MATLAB & SQL
+      - name: Sketch & Photoshop
         level: 60%
-        
-      - name: Artificial Intelligence (AI) & Natural Language Processing (NLP)
-        level: 60%
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
