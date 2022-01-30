@@ -206,45 +206,44 @@ projects:
 publications:
     title: Publications
     intro: |
-      Leading the field of reasearch and innovation the technocrat credentials 
-      are substantiated with certification in IEEE and International and National
-      papers published in IETE and other journals.List of publications.
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: DXCCII-Based Mixed-Mode Electronically Tunable Quadrature Oscillator with Grounded Capacitors
-        link: "https://link.springer.com/chapter/10.1007%2F978-3-642-18440-6_65"
-        authors: Sumit Sharma & Samar Ansari
-        conference: International Conference on Advances in Computing, Communication and Control ICAC3 2011: Advances in Computing, Communication and Control pp 515-521
-      
-      - title: "New Applications of CMOS DXCCII: Quadrature Oscillator; AM, FM & OOK Modulators and Variable Duty-Cycle Square-Wave Generator"
-        link: "https://www.researchgate.net/scientific-contributions/Sumit-Sharma-2023916078"
-        authors: Sumit Sharma & Samar Ansari
-        conference: "Conference: Proceedings of the International Conference on Future Engineering Trends (ICFET2K10)"
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: DXCCII based Electronically Tunable Band-Pass Filter
-        link: "https://www.researchgate.net/publication/259284066_DXCCII_based_Electronically_Tunable_Band-Pass_Filter"
-        authors: Sumit Sharma & Samar Ansari
-        conference: "Conference: Proceedings of the International Conference on Future Trends in Information and Communication Technologies (FTICT-09)"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Project Management
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Business Intelligence (BI)
         level: 98%
 
-      - name: Angular
+      - name: Requirements Analysis, Planning and Forecasting
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Microsoft Azure Machine Learning
         level: 95%
 
-      - name: Ruby on Rails
+      - name: HTML5 & CSS
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Python, SQL, R prog & MATLAB
         level: 60%
 
 footer: >
