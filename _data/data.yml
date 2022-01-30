@@ -88,45 +88,59 @@ education:
         communication and content networking paradigms.Design simulation
         and experiments to demonstrate the working of computer network 
         protocols and algorithms
-     
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+        
+    - degree: B.TECH IN ELECTRONICS
+      university: ALIGARH MUSLIM UNIVERSITY | Aligarh, U.P.
+      time: 2006 - 2010
+      
+experiences: INDIAN ARMY (2011- Present)
+    - role: OFFICER COMMANDING AND SENIOR MANAGER WORKSHOP
+      time: Sep 2020 - Present |
+      location : Pathankot, Punjab
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - • Conceptualization, development and implementation of Anti -Drone / UAV surveillance net-
+            AI/ML model for automatic detection and classification of objects in drone imagery and
+            countermeasure.
+        - • Managed project deployment lifecycle, define requirements, research solutions, design
+            systems, support testing and oversee live implementation.
+        - • Implemented Microsoft Power Automate to save time and effort in a single robotic process
+            automation for COVID advisory chatbot for Operation Namaste.
+
+    - role: DEPUTY GENERAL MANAGER (STRATEGY) ARMY BASE WORKSHOP
+      time: Aug 2018 – Sep 2020 | 
+      location : Pune, Maharashtra
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - • Lead a project team to ERP solution- Wrote and reviewed code using Java, PHP, SQL
+            programming to process and transform production and logistic data.
+        - • Design and developed admin interface solution as per enterprise architecture standard.
+        - • Augmented Inventory Management software with statistical tools like ABC, FNS and
+            VED analysis
+        - • Headed budgeting and forecasting team for annual business requirements.escribe your role here lorem ipsum dolor sit amet, consectetuer
+        
+    - role: INFORMATION TECHNOLOGY MANAGER
+      time: Aug 2016 – Aug 2018 
+      location : Jammu, J&K
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - • Managed зоо» corporate excel and access reports, the reports and the business
+            intelligence (BI) platform
+        - • Enabled 120+ project leaders to see near real-time project budget and staff hours through
+             the creation of a KPI dashboard.
+        - • Created a backbone by professional writing and interpretative reports at each step,
+            starting with proposals, then protocols, conclusive thesis and presentations.
+        - • Carried out project feasibility of ANDROID based app prototype for the complaint registration
+            system for the Indian Army.escribe your role here lorem ipsum dolor sit amet, consectetuer
+            
+    - role: DATABASE ANALYST
+      time: Mar 2011 – Aug 2016
+      location : Patiala, Punjab
+      details: |
+        - • Applied advanced data strategy and statistical analytics to challenging data problems,
+            predictions and forecasting.
+        - • Managed logistics deployment planning and support pricing for multiple proposal efforts
+            as per Defense Procurement Plan for the workshop.
+        - • Reviewed existing scales, by proficiently compiling, sampling, cleaning and transforming
+            data to achieve a 2% decrease in per-unit overhaul cost.  
+            
 projects:
     title: Projects
     intro: >
