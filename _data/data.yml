@@ -206,9 +206,11 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Leading the field of reasearch and innovation the technocrat
+      credentials are substantiated with certification in IEEE and
+      International and National papers published in IETE and other
+      journals.List of publications.
+
     papers:
       - title: The Art of Computer Programming
         link: "#"
