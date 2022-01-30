@@ -34,40 +34,45 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - #idiom: Spanish
-        #level: Professional
-
     interests:
-      - item: Climbing
+      - item: Public Speaking
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Article/Newsletter Writing 
+        link: https://www.linkedin.com/posts/major-sumit-sharma_hiringmanagers-talentaquisition-secondinning-activity-6892764999740198912-Ph3h
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Result-oriented professional with more than 10 years of experience 
+      in the field of computer applications, diverse exposure in management
+      of technical jobs viz planning, forecasting & implementation. Achieved
+      consistent output in challenging scenarios by using analytical modules
+      in project assessment and organizing apt workforce as Tech Manager to
+      continually improve and add value for cross-functional business team.
+      Transformed spares inventory management and tanks overhaul operations
+      process from manual to server-based operation with six weeks delay to
+      near real-time auto-updating process. 
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: EXECUTIVE BUSINESS MANAGEMENT COURSE FOR DEFENCE OFFICERS
+      university: IIM Indore
+      time: 2021 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        DescribeFor the men and women of our defence forces, the 24-week Certificate Course 
+        in Business Management for Defence Officers programme is a gateway to the 
+        corporate world. A contact programme, bundled with the right mix of management
+        subjects, is tailored to bridge the diverse experiences these officers have
+        and the needs of today’s corporate. Laying a strong foundation of core business
+        management concepts, to include Finance, Accounts, Communication, Operations 
+        and MIS amongst others.
+        The purpose of the course is to facilitate an effective transition from the
+        military to the corporate through skill development and industry orientation.
+        A case-based pedagogy combined with industry-based assignments and projects 
+        enhance the comprehension and ability to address complex business situations.
+        Curated to chisel off the functional differences from their erstwhile environment
+        and nurture the wide experience, the programme aims to create an effective and
+        efficient leader for today’s corporate.
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
