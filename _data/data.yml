@@ -158,25 +158,25 @@ projects:
       during the service as under -
       
     assignments:
-      - title: Project OP KAMYAB
+      - title: Operation KAMYAB
         link: "#hook"
         tagline: "Led team of 200+ soldiers in operations, maintaining formation equipment’s in full mission capable state and achieving quantiﬁable industry standards : min MTTR ,min MTDT and max MTBF."
 
-      - title: DevStudio
+      - title:  NETRA
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Instructed and trained soldiers and technician’s over UAV’s on maintenance and repair."
 
-      - title: Tempo
+      - title:  GULMOHAR
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Oversaw overhaul operations of Tanks T-72 based recovery vehicle of East European origin"
 
-      - title: Atom
+      - title: TULIP
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: " Handled logistics and production of Infantry combat vehicles for ﬁeld army.Designed and developed comprehensive ERP solution for project monitoring and inventory management."
 
-      - title: Delta
+      - title: INDUSTRY 4.0
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Enabled the implementation of Industry 4.0 at 512 Army Base Workshop, such as Automation, Cybersecurity, Data Modeling, Data Analytics,Additive Manufacturing, 3-D Printing and Simulation."
 
 publications:
     title: Publications
