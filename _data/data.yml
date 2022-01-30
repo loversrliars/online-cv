@@ -180,8 +180,8 @@ projects:
 
 publications:
     title: Publications
-    intro: 
-       Leading the field of reasearch and innovation the technocrat credentials are substantiated with certification in IEEE and International and National papers published in IETE and other journals.List of publications. 
+    intro:
+      Leading the field of reasearch and innovation the technocrat credentials are substantiated with certification in IEEE and International and National papers published in IETE and other journals.List of publications. 
     papers:
       - title: DXCCII-Based Mixed-Mode Electronically Tunable Quadrature Oscillator with Grounded Capacitors
         link: "https://link.springer.com/chapter/10.1007%2F978-3-642-18440-6_65"
