@@ -148,7 +148,7 @@ experiences:
 projects:
     title: Projects
     intro:
-      From time immemorial, Corps of Electronics and Mechanical Engineers(EME)
+      From time immemorial, Corps of Electronics and Mechanical Engineers (EME)
       has been a traditional spearhead of technological developments in 
       Indain Army, taking charge of the extreme challenges in the technicalities
       and adversities of ever evolving nature of warfare across the entire
@@ -158,9 +158,9 @@ projects:
       during the service as under -
       
     assignments:
-      - title: Velocity
+      - title: Project OP KAMYAB
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Led team of 200+ soldiers in operations, maintaining formation equipment’s in full mission capable state and achieving quantiﬁable industry standards such as  min MTTR ,min MTDT and max MTBF."
 
       - title: DevStudio
         link: "#"
