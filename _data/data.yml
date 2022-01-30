@@ -96,7 +96,7 @@ education:
 experiences:
     - role: SENIOR MANAGER WORKSHOP
       time: Sep 2020 - Present 
-      location : INDIAN ARMY,Pathankot, Punjab
+      COMPANY : INDIAN ARMY, Punjab
       details: |
         -  Conceptualization, development and implementation of Anti -Drone / UAV surveillance net-
            AI/ML model for automatic detection and classification of objects in drone imagery and
@@ -108,7 +108,7 @@ experiences:
 
     - role: DEPUTY GENERAL MANAGER(STRATEGY)
       time: Aug 2018 – Sep 2020 | 
-      company: INDIAN ARMY,Pune, Maharashtra
+      company: INDIAN ARMY, Maharashtra
       details: |
         -  Lead a project team to ERP solution- Wrote and reviewed code using Java, PHP, SQL
            programming to process and transform production and logistic data.
@@ -119,7 +119,7 @@ experiences:
         
     - role: LEAD IT MANAGER
       time: Aug 2016 – Aug 2018 
-      company: INDIAN ARMY,Jammu, J&K
+      company: INDIAN ARMY, J&K
       details: |
         - Managed зоо» corporate excel and access reports, the reports and the business
           intelligence (BI) platform
@@ -132,7 +132,7 @@ experiences:
             
     - role: DATABASE ANALYST
       time: Mar 2011 – Aug 2016
-      company: INDIAN ARMY,Patiala, Punjab
+      company: INDIAN ARMY, Punjab
       details: |
         -  Applied advanced data strategy and statistical analytics to challenging data problems,
            predictions and forecasting.
@@ -143,7 +143,7 @@ experiences:
                     
     - role:  ASSOCIATE SOFTWARE ENGINEER
       time: June 2010 – Mar 2011 
-      comapny: ACCENTURE , Hyderabad
+      comapny: ACCENTURE, Hyderabad
       
 projects:
     title: Projects
