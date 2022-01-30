@@ -89,9 +89,33 @@ education:
         and experiments to demonstrate the working of computer network 
         protocols and algorithms
         
+    - degree: Certification in Microsoft Azure Essential, Power Platform PL-900, Azure AI Fundamentals AI-900
+      university: MICROSOFT
+     #time: 
+      
+    - degree:  Certiﬁcation course Google Analytics for Beginner, Project Management tracking and planning using Google sheets.
+      university: GOOGLE 
+      #time: 2006 - 2010
+      
+    - degree: Data Scientists Specialization Tools, ‘R’ Programming.
+      university: COURSERA 
+      #time: 2006 - 2010
+      
+    - degree: Certiﬁcate on Business Analysis Foundations, Agile Certificate Practitioner (PMI-ACP)
+      university: PMI
+      #time: 2006 - 2010
+      
+    - degree:  Certiﬁcation in IoT, Blockchain, AI, Robotics and Autonomous Vehicles.
+      university:  IEEE
+      #time: 2006 - 2010
+      
     - degree: B.TECH IN ELECTRONICS
       university: ALIGARH MUSLIM UNIVERSITY | Aligarh, U.P.
-      time: 2006 - 2010
+      #time: 2006 - 2010
+      
+    - degree: B.TECH IN ELECTRONICS
+      university: ALIGARH MUSLIM UNIVERSITY | Aligarh, U.P.
+      #time: 2006 - 2010
       
 experiences:
     - role: SENIOR MANAGER WORKSHOP
@@ -205,23 +229,28 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Microsoft Excel
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Project Management
         level: 98%
 
-      - name: Angular
+      - name: Microsoft Project
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Tableau
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Requirements Analysis
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Microsoft SQL Server
         level: 60%
-
+        
+      - name: Microsoft Azure Machine Learning
+        level: 60%
+        
+       - name: Business Intelligence (BI)
+        level: 60%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
