@@ -76,17 +76,19 @@ education:
         concepts, to include Finance, Accounts, Communication, Operations 
         and MIS amongst others.
                
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: ADVANCE COURSE IN COMPUTER SCIENCE
+      university: Military College of Electronics and
+                  Mechanical Engineering | Secunderabad, Telangana
+      time: 2015 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Present the design principles and core ideas behind several 
+        advanced computer network architectures to academic audiences.
+        Lead discussions on current topics in network protocols, algorithms,
+        applications and architecture research in both device to device 
+        communication and content networking paradigms.Design simulation
+        and experiments to demonstrate the working of computer network 
+        protocols and algorithms
+     
 experiences:
     - role: Lead Developer
       time: 2015 - Present
