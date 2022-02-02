@@ -245,15 +245,15 @@ skills:
         level: 98%
 
       - name: Requirements Analysis, Planning and Forecasting
-        level: 98%
-
-      - name: Microsoft Azure Machine Learning
-        level: 95%
+        level: 90%
 
       - name: HTML5 & CSS
         level: 85%
 
       - name: Python, SQL, R prog & MATLAB
+        level: 60%
+        
+      - name: Microsoft Azure Machine Learning
         level: 60%
 
 footer: >
